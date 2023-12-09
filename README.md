@@ -1,3 +1,3 @@
 # site
-projeto de site com informações
-esse é meu primeiro site, feito acompanhando o curso de web fundamentos
+projeto de portifólio web
+esse é meu primeiro portifólio web
